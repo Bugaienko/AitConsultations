@@ -56,7 +56,7 @@ public class MainBus {
         passFinal.setName("DDDD");
         passFinal.setKind(true);
         System.out.println(passFinal);
-        passFinal = new Passenger("fder", "erre");
+        // passFinal = new Passenger("fder", "erre"); // не допустимо
 
 
 //        System.out.println(passenger.equals(passenger1));
